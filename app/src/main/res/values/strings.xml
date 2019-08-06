@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Camera</string>
+    <string name="record_string">record_string</string>
+    <string name="activity_horizontal_margin">activity_horizontal_margin</string>
+    <string name="activity_vertical_margin">activity_vertical_margin</string>
+</resources>
